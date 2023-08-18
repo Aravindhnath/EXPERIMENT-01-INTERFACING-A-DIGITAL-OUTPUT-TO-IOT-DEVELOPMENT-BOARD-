@@ -167,8 +167,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output  :
  
- 
- 
+ ![Output](/exp1_iot.png)
  
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
